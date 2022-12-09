@@ -41,3 +41,7 @@ Check Pose Morph Instead of PLA
 Export
 
 ![](https://hackmd.io/_uploads/SJ7V8ag_i.gif)
+
+Bugs
+
+make sure to start from base pose or )% on the strength slider when exporting or it wont work
